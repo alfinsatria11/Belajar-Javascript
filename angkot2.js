@@ -1,3 +1,5 @@
+// for
+
 var jmlAngkot = 10;
 var angkotBeroperasi = 6;
 var angkot = 1;
